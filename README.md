@@ -24,7 +24,6 @@ Instructions
   but you can also find it in the side panel under EasyFluid
 
   You also have a preferences window for customisations
-
 Links
 
 	Bug Report url
@@ -34,3 +33,4 @@ Links
 	Documentation url
 	
 	https://docs.google.com/document/d/111R0Vf4Z8N9JasQxrbn_1FY6cg0vBxB0c6U_NXYHgOY/edit?usp=sharing
+
