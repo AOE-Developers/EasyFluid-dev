@@ -8,17 +8,19 @@ This addon can help new blender users create simple fluid simulations.
 
 It can also help experienced users save a lot of workload.
 
-First clone the package and extract the zip.
+Instructions
 
-The addon file is the zip file
+  First clone the package and extract the zip.
 
-To install it in blender, just go to the preferences window and go to addons
+  The addon file is the zip file
 
-Click install and go to the the place where the addon is located.
+  To install it in blender, just go to the preferences window and go to addons
 
-Over there click install, and there you have it.
+  Click install and go to the the place where the addon is located.
 
-To use the adddon, you can find it in the header, 
-but you can also find it in the side panel under EasyFluid
+  Over there click install, and there you have it.
 
-You aalso have a preferences window for customisations
+  To use the adddon, you can find it in the header, 
+  but you can also find it in the side panel under EasyFluid
+
+  You also have a preferences window for customisations
